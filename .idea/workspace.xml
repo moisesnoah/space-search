@@ -4,7 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98920a6f-eed8-42ba-99cc-cd1df3409ed1" name="Changes" comment="" />
+    <list default="true" id="98920a6f-eed8-42ba-99cc-cd1df3409ed1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/apps/galeria/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/usuarios/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/usuarios/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/secret_key_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup/static/assets/ícones/1x/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/imagens/galeria/not-found.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/ícones/1x/new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/galeria/editar_imagem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/galeria/nova_imagem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/galeria/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/galeria/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0002_fotografia_categoria.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0002_fotografia_categoria_alter_fotografia_descricao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0003_alter_fotografia_descricao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0003_fotografia_publicada.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0004_fotografia_data_fotografia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0004_fotografia_publicada.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0005_alter_fotografia_foto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0005_fotografia_data_fotografia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0006_alter_fotografia_foto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0007_merge_20240422_2338.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/0008_fotografia_usuario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/galeria/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/galeria/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/galeria/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/galeria/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galeria/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/galeria/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/static/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/setup/static/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/galeria/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shared/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/galeria/buscar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/galeria/imagem.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/galeria/imagem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/galeria/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/galeria/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/partials/_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/partials/_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/partials/_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/partials/_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/usuarios/cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/usuarios/cadastro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/usuarios/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/usuarios/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarios/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/galeria/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarios/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/usuarios/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarios/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/usuarios/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarios/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/usuarios/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarios/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/galeria/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarios/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/usuarios/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarios/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/usuarios/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarios/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/usuarios/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usuarios/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/usuarios/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +75,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fR6YxrnojX2cgJaxRfAyW7igjh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,7 +90,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/projetospessoais/Python/search-project",
+    "last_opened_file_path": "C:/projetospessoais/Python/search-project/setup/static",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,13 +102,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\projetospessoais\Python\search-project" />
-      <recent name="C:\projetospessoais\Python\search-project\templates" />
-      <recent name="C:\projetospessoais\Python\search-project\setup" />
-      <recent name="C:\projetospessoais\Python\search-project\templates\galeria" />
       <recent name="C:\projetospessoais\Python\search-project\setup\static" />
+      <recent name="C:\projetospessoais\Python\search-project\static" />
+      <recent name="C:\projetospessoais\Python\search-project\static\styles" />
+      <recent name="C:\projetospessoais\Python\search-project" />
+      <recent name="C:\projetospessoais\Python\search-project\templates\galeria" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projetospessoais\Python\search-project\apps" />
       <recent name="C:\projetospessoais\Python\search-project\usuarios" />
       <recent name="C:\projetospessoais\Python\search-project\setup\static\assets\imagens\galeria" />
       <recent name="C:\projetospessoais\Python\search-project\templates\galeria" />
@@ -74,7 +130,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713751595077</updated>
-      <workItem from="1713751597867" duration="32452000" />
+      <workItem from="1713751597867" duration="33226000" />
+      <workItem from="1714056511004" duration="11156000" />
     </task>
     <servers />
   </component>
